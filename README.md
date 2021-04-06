@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, meu nome é Matheus Pedro</h1>
 <h3 align="center">Graduando em Analise e Desenvolvimento de Sistemas</h3>
 
+- 🥇 3º Lugar na 1ª edição do MaratON, evento idealizado pela empresa Accenture.
+
 - 🔭 Atualmente estou trabalhando em um projeto pessoal o [Agenda CZ](https://github.com/MatheusPedroSS/react-native-agenda-cz)
 
 - 🌱 Estou estudando atualmente **Node, React, React Native, Redux**
