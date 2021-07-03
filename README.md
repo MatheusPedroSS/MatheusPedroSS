@@ -3,8 +3,6 @@
 
 - 🥇 3º Lugar na 1ª edição do MaratON, evento idealizado pela empresa Accenture.
 
-- 🔭 Atualmente estou trabalhando em um projeto pessoal o [Agenda CZ](https://github.com/MatheusPedroSS/react-native-agenda-cz)
-
 - 🌱 Estou estudando atualmente **Node, React, React Native, Redux**
 
 - 👨‍💻 Meus repositórios: [https://github.com/MatheusPedroSS?tab=repositories](https://github.com/MatheusPedroSS?tab=repositories)
