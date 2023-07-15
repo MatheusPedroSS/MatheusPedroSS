@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, meu nome é Matheus Pedro</h1>
-<h3 align="center">Graduando em Analise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Graduado em Analise e Desenvolvimento de Sistemas</h3>
 
 - 🥇 3º Lugar na 1ª edição do MaratON, evento idealizado pela empresa Accenture.
 
